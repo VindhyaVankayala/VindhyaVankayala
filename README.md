@@ -41,7 +41,7 @@ I build backend systems that need to be **reliable at scale**. Over 5+ years I'v
 <tr>
 <td width="50%" valign="top">
 
-#### 🅿️ [FlexiPark](https://github.com/VindhyaVankayala/REPLACE-WITH-REPO-NAME)
+#### 🅿️ [FlexiPark](https://github.com/VindhyaVankayala/FlexiPark)
 Parking lot management system with check-in, spot allotment, ticketing, time-based billing and a live occupancy dashboard. Uses the **Strategy pattern** for pluggable allotment and fee algorithms.
 
 `Java 21` `Spring MVC` `Thymeleaf` `JPA` `MySQL` `Docker`
@@ -49,7 +49,7 @@ Parking lot management system with check-in, spot allotment, ticketing, time-bas
 </td>
 <td width="50%" valign="top">
 
-#### 🛒 [E-commerce Product Service](https://github.com/VindhyaVankayala/REPLACE-WITH-REPO-NAME)
+#### 🛒 [E-commerce Product Service](https://github.com/VindhyaVankayala/ProductService)
 Microservice with REST CRUD APIs and a pluggable service layer that switches between a third-party API and a database-backed implementation. Tested with JUnit 5 and Mockito.
 
 `Java 17` `Spring Boot 3` `JPA` `MySQL` `JUnit 5`
